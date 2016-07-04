@@ -1,0 +1,4 @@
+ChatApplication.Android.MainActivity, ChatApplication.Android;md5bb519be5d355e48b4d6be4941a60bacf.MainActivity
+ChatApplication.Android.MainActivity, ChatApplication.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5bb519be5d355e48b4d6be4941a60bacf.MainActivity
+ChatApplication.Android.MainActivity;md5bb519be5d355e48b4d6be4941a60bacf.MainActivity
+chatapplication.android.MainActivity;md5bb519be5d355e48b4d6be4941a60bacf.MainActivity

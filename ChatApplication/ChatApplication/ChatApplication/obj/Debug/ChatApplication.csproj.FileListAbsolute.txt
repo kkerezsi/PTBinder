@@ -1,0 +1,12 @@
+c:\users\kkerezsi\documents\visual studio 2013\Projects\ChatApplication\ChatApplication\ChatApplication\bin\Debug\ChatApplication.dll
+c:\users\kkerezsi\documents\visual studio 2013\Projects\ChatApplication\ChatApplication\ChatApplication\bin\Debug\ChatApplication.pdb
+c:\users\kkerezsi\documents\visual studio 2013\Projects\ChatApplication\ChatApplication\ChatApplication\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\kkerezsi\documents\visual studio 2013\Projects\ChatApplication\ChatApplication\ChatApplication\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\kkerezsi\documents\visual studio 2013\Projects\ChatApplication\ChatApplication\ChatApplication\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\kkerezsi\documents\visual studio 2013\Projects\ChatApplication\ChatApplication\ChatApplication\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\kkerezsi\documents\visual studio 2013\Projects\ChatApplication\ChatApplication\ChatApplication\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\kkerezsi\documents\visual studio 2013\Projects\ChatApplication\ChatApplication\ChatApplication\obj\Debug\ChatApplication.csprojResolveAssemblyReference.cache
+c:\users\kkerezsi\documents\visual studio 2013\Projects\ChatApplication\ChatApplication\ChatApplication\obj\Debug\ChatApplication.dll
+c:\users\kkerezsi\documents\visual studio 2013\Projects\ChatApplication\ChatApplication\ChatApplication\obj\Debug\ChatApplication.pdb
+c:\users\kkerezsi\documents\visual studio 2013\Projects\ChatApplication\ChatApplication\ChatApplication\obj\Debug\ChatApplication.dll.mdb
+c:\users\kkerezsi\documents\visual studio 2013\Projects\ChatApplication\ChatApplication\ChatApplication\bin\Debug\ChatApplication.dll.mdb
